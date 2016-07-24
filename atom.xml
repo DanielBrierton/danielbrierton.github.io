@@ -111,9 +111,9 @@
     <link href="https://daniel.brierton.me/my-google-io-hopes-and-predictions/"/>
     <id>https://daniel.brierton.me/my-google-io-hopes-and-predictions/</id>
     <published>2013-03-19T00:00:00.000Z</published>
-    <updated>2016-07-24T22:18:48.000Z</updated>
+    <updated>2016-07-24T22:48:38.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://daniel.brierton.me/content/images/my-google-io-hopes-and-predictions/google_io1.png" alt="Google I/O"></p>
+    <content type="html"><![CDATA[<p><img src="/images/my-google-io-hopes-and-predictions/google_io1.png" alt="Google I/O"></p>
 <p>With Google I/O less than two months away, speculation is rife on what Google will announce. This list is more of a wish list than statements of what I believe will happen. I believe most of what I’ve laid out below is possible, however as with any speculation it’s exactly that — speculation. I don’t have any insider information, just my own thoughts.</p>
 <a id="more"></a>
 <ol>
@@ -146,7 +146,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://daniel.brierton.me/content/images/my-google-io-hopes-and-predictions/google_io1.png&quot; alt=&quot;Google I/O&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/my-google-io-hopes-and-predictions/google_io1.png&quot; alt=&quot;Google I/O&quot;&gt;&lt;/p&gt;
 &lt;p&gt;With Google I/O less than two months away, speculation is rife on what Google will announce. This list is more of a wish list than statements of what I believe will happen. I believe most of what I’ve laid out below is possible, however as with any speculation it’s exactly that — speculation. I don’t have any insider information, just my own thoughts.&lt;/p&gt;
     
     </summary>
@@ -239,12 +239,12 @@
     <link href="https://daniel.brierton.me/what-i-want-from-my-next-mobile-os/"/>
     <id>https://daniel.brierton.me/what-i-want-from-my-next-mobile-os/</id>
     <published>2011-02-16T00:00:00.000Z</published>
-    <updated>2016-07-24T22:19:28.000Z</updated>
+    <updated>2016-07-24T22:49:01.000Z</updated>
     
-    <content type="html"><![CDATA[<p>With the recent big announcements from Google, HP and Nokia, I’ve been left wondering what my next phone will be. In the end, I believe people will be buying into an ecosystem of devices. With HP’s tight integration between phone and tablet, and plans to bring it’s webOS to PCs and laptops in the near future, it’s clear that they want you to own HP throughout your gadgety collection. I love the look of the integration they’ve got going in webOS, but I’m not loving the idea of sticking with one manufacturer.</p>
+    <content type="html"><![CDATA[<p><img src="/images/what-i-want-from-my-next-mobile-os/xoom-pre-macbook.png" alt=""></p>
+<p>With the recent big announcements from Google, HP and Nokia, I’ve been left wondering what my next phone will be. In the end, I believe people will be buying into an ecosystem of devices. With HP’s tight integration between phone and tablet, and plans to bring it’s webOS to PCs and laptops in the near future, it’s clear that they want you to own HP throughout your gadgety collection. I love the look of the integration they’ve got going in webOS, but I’m not loving the idea of sticking with one manufacturer.</p>
 <a id="more"></a>
 <p>I love my MacBook, and I can’t imagine switching from Mac. So that would suggest iPhone might be the best option, in the hope that the next generation MacBooks and iPhone perhaps use NFC/Bluetooth to communicate, and offer a similar experience to webOS. But I’m bored of iOS. It’s become nothing more than a sea of icons to me, with no life outside of each individual application. Maybe I should pick up a Windows Phone 7 running Nokia, for the high build quality, coupled with an OS that is quite unique, and intrigues me somewhat. Windows Phone 7 is still in it’s infancy, so it’s hard to tell yet how that will pan out.</p>
-<p><img src="/images/what-i-want-from-my-next-mobile-os/xoom-pre-macbook.png" alt=""></p>
 <p>So, I want a UI that lives and breathes and gives me feedback throughout, integration with the other devices in my computing ecosystem, the developer support needed to sustain a modern mobile OS, and without being locked down to a single manufacturer. Android covers the UI and developer support, with a growing number of manufacturers to boot. At the moment it’s lacking that integration that I crave. That integration that I crave and lust for just isn’t there sadly. Perhaps Google are working on this behind closed doors. But one thing is pretty much certain – somebody will bring that integration through the Market. webOS to me, as a web developer with a high interest in mobile apps, seems to be the obvious choice, and if they were to bring out a 7” tablet alongside the Pre 3, I’d consider making the move. That said, webOS for tablets just seems to be the phone OS blown up big screen, much like the iPad. Android 3.0 Honeycomb shines through there. It’s properly built for a tablet, with it’s UI reworked from the ground up.</p>
 <p>The perfect solution to me: Google, Apple, Microsoft and HP (along with whoever else wants to chime in) develop a set of protocols for cross device communication. Imagine a world where my Pre 3 can communicate with my Motorola Xoom and MacBook (my perfect setup – I think, although I’d rather a 7” tablet) with ease, and if swap out my Pre 3 for a Nokia Windows Phone 7 device and all works the same. Think of it, on each device a default program for handling a particular notification event, say an SMS. An SMS comes into my phone, pushes a notification to any connected device, which then launches the default action for that event, which may or may not know how to respond to it. I think all the manufacturers win in this scenario, because consumers wouldn’t feel apprehensive about changing platform.</p>
 <p>Sadly, I can’t see this happening. Apple are already separating themselves by using AirPlay instead of embracing DLNA, and I can see further differentiation. I still hold hope that something can be done to alleviate the incompatibility, but I highly doubt a perfect solution.</p>
@@ -252,7 +252,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;With the recent big announcements from Google, HP and Nokia, I’ve been left wondering what my next phone will be. In the end, I believe people will be buying into an ecosystem of devices. With HP’s tight integration between phone and tablet, and plans to bring it’s webOS to PCs and laptops in the near future, it’s clear that they want you to own HP throughout your gadgety collection. I love the look of the integration they’ve got going in webOS, but I’m not loving the idea of sticking with one manufacturer.&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/what-i-want-from-my-next-mobile-os/xoom-pre-macbook.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;With the recent big announcements from Google, HP and Nokia, I’ve been left wondering what my next phone will be. In the end, I believe people will be buying into an ecosystem of devices. With HP’s tight integration between phone and tablet, and plans to bring it’s webOS to PCs and laptops in the near future, it’s clear that they want you to own HP throughout your gadgety collection. I love the look of the integration they’ve got going in webOS, but I’m not loving the idea of sticking with one manufacturer.&lt;/p&gt;
     
     </summary>
     
@@ -266,9 +267,9 @@
     <link href="https://daniel.brierton.me/androids-update-evolution/"/>
     <id>https://daniel.brierton.me/androids-update-evolution/</id>
     <published>2010-12-30T00:00:00.000Z</published>
-    <updated>2016-07-24T22:17:54.000Z</updated>
+    <updated>2016-07-24T22:49:10.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://daniel.brierton.me/content/images/androids-update-evolution/android-gingerbread.png" alt=""></p>
+    <content type="html"><![CDATA[<p><img src="/images/androids-update-evolution/android-gingerbread.png" alt=""></p>
 <p>I, like many others, was quite disappointed about the Gingerbread announcement from a user perspective. The UI is nothing new to anyone who has tried out a few custom ROMs bar a few little touches, most of which could probably be implemented in Froyo if any ROM developer wanted to. The new APIs available to developers are nice, but from a user’s view there wasn’t much to be loved. It was really a developer’s release more than anything. I know Honeycomb will have a UI overhaul, but I expected elements of that in Gingerbread. So yeah, disappointed would be an apt description.</p>
 <a id="more"></a> 
 <p>But then it occurred to me, what makes a new version of an OS exciting? Take a look at iOS 4.2.1, it brought AirPlay and AirPrint to iDevices, as well as some updates to the core OS apps. And that was able to excite iOS users, purely because there was some great user facing enhancements included with the updated APIs and bug fixes. Google stated after Froyo that their development cycle would slow down for subsequent updates. But really, this couldn’t be further from the truth. The way I look at it, they’ve sped up their cycle, and they’ve done so for the better.</p>
@@ -279,7 +280,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://daniel.brierton.me/content/images/androids-update-evolution/android-gingerbread.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/androids-update-evolution/android-gingerbread.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;I, like many others, was quite disappointed about the Gingerbread announcement from a user perspective. The UI is nothing new to anyone who has tried out a few custom ROMs bar a few little touches, most of which could probably be implemented in Froyo if any ROM developer wanted to. The new APIs available to developers are nice, but from a user’s view there wasn’t much to be loved. It was really a developer’s release more than anything. I know Honeycomb will have a UI overhaul, but I expected elements of that in Gingerbread. So yeah, disappointed would be an apt description.&lt;/p&gt;
     
     </summary>
@@ -294,9 +295,9 @@
     <link href="https://daniel.brierton.me/os-x-lion-yay-or-nay/"/>
     <id>https://daniel.brierton.me/os-x-lion-yay-or-nay/</id>
     <published>2010-10-22T23:00:00.000Z</published>
-    <updated>2016-07-24T22:19:03.000Z</updated>
+    <updated>2016-07-24T22:48:44.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://daniel.brierton.me/content/images/os-x-lion-yay-or-nay/osx-ipad-gt-osx.jpg" alt=""></p>
+    <content type="html"><![CDATA[<p><img src="/images/os-x-lion-yay-or-nay/osx-ipad-gt-osx.jpg" alt=""></p>
 <p>With the recent Mac event from Apple, I’ve been asking myself, do I like where OS X is going? I’ve only recently enough become a Mac user, picking up a Macbook about a year and a half ago now, so I’ve only ever used Leopard and Snow Leopard. I guess that’s enough time to get over comfortable in an OS. Using Windows or Linux now feels a little alien to me, despite being a Windows user all my life, and using Ubuntu for a significant amount of time.</p>
 <a id="more"></a>
 <p>I love my iPhone, but the whole experience got a little boring for me. I’ve always been jailbroken since 1.1.4 on my original iPhone, so I’ve always had the customisations available on Installer and Cydia, but around the middle of summer, I got fed up and got myself a HTC Desire, and made the leap to Android. I’ll never look back. Which brings me back to my original point - Do I really want my desktop OS to become more like iOS?</p>
@@ -310,7 +311,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://daniel.brierton.me/content/images/os-x-lion-yay-or-nay/osx-ipad-gt-osx.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/os-x-lion-yay-or-nay/osx-ipad-gt-osx.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;With the recent Mac event from Apple, I’ve been asking myself, do I like where OS X is going? I’ve only recently enough become a Mac user, picking up a Macbook about a year and a half ago now, so I’ve only ever used Leopard and Snow Leopard. I guess that’s enough time to get over comfortable in an OS. Using Windows or Linux now feels a little alien to me, despite being a Windows user all my life, and using Ubuntu for a significant amount of time.&lt;/p&gt;
     
     </summary>
