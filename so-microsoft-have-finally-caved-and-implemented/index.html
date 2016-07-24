@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>Microsoft XMPP Implementation Issues - Daniel Brierton</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="So, Microsoft have finally caved and implemented an XMPP interface for Windows Live Messenger. It sounds great, but I feel they’ve messed up on a few things.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Microsoft XMPP Implementation Issues">
+<meta property="og:url" content="https://daniel.brierton.me/so-microsoft-have-finally-caved-and-implemented/index.html">
+<meta property="og:site_name" content="Daniel Brierton">
+<meta property="og:description" content="So, Microsoft have finally caved and implemented an XMPP interface for Windows Live Messenger. It sounds great, but I feel they’ve messed up on a few things.">
+<meta property="og:updated_time" content="2016-07-24T22:19:09.000Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Microsoft XMPP Implementation Issues">
+<meta name="twitter:description" content="So, Microsoft have finally caved and implemented an XMPP interface for Windows Live Messenger. It sounds great, but I feel they’ve messed up on a few things.">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  <link href="/webfonts/ptserif/main.css" rel='stylesheet' type='text/css'>
+  <link href="/webfonts/source-code-pro/main.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/css/style.css">
+  
+
+</head>
+
+<body>
+  <div id="container">
+    <header id="header">
+  <div id="header-outer" class="outer">
+    <div id="header-inner" class="inner">
+      <a id="main-nav-toggle" class="nav-icon" href="javascript:;"></a>
+      <a id="logo" class="logo logo-text" href="/">Daniel Brierton</a>
+      <nav id="main-nav">
+        
+      </nav>
+      <nav id="sub-nav">
+        <div id="search-form-wrap">
+          <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://daniel.brierton.me"></form>
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>
+    <section id="main" class="outer"><article id="post-so-microsoft-have-finally-caved-and-implemented" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      Microsoft XMPP Implementation Issues
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-meta">
+      <a href="/so-microsoft-have-finally-caved-and-implemented/" class="article-date">
+  <time datetime="2011-12-15T00:00:00.000Z" itemprop="datePublished">2011-12-15</time>
+</a>
+      
+      
+    </div>
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>So, Microsoft have finally caved and implemented an XMPP interface for Windows Live Messenger. It sounds great, but I feel they’ve messed up on a few things.</p>
+<a id="more"></a>
+<p><em>Custom login procedure</em><br>My initial thought was to open Adium and add my Windows Live account as an XMPP account. I found the XMPP server address (<a href="http://xmpp.messenger.live.com" target="_blank" rel="external">xmpp.messenger.live.com</a>) from some sample code they have on Github, but alas, it wouldn’t log in. Why? Microsoft have decided to use a custom OAuth 2 implementation for login, thus making all current XMPP clients incompatible. Ouch. So you can probably say goodbye to ever using WLM in iChat unless Microsoft decide to change it.</p>
+<p><em>No write access to contacts list</em><br>Third party clients that decide to implement XMPP for WLM will find that they have no way of adding new contacts or accepting invitations from others. This has to be done in either Microsoft’s own client, or in a browser on web messenger. This kinda gimps third party clients for those who want to just rely on one interface, and one interface only.</p>
+<p><em>XMPP Server Federation</em><br>I must preface this by mentioning that I’m not sure whether they support XMPP Federation or not. Microsoft go on about choice of services and not worrying about what your friends use, but there’s no clear mention of whether this means XMPP Federation. They mention Facebook and Yahoo by name, which as you may know, already have WLM integration. I attempted to add my Windows Live account to my Google Talk contacts list, but to no avail. One reason this is a big deal to me is that I’m expecting to get my hands on a Nokia Lumia 800 very soon, and would love to able to chat with my Google Talk contacts within the messaging hub on Windows Phone. It would be somewhat similar to the seamlessness of iMessage, although from what I can tell, not <em>quite</em> that seamless, but still awesome.</p>
+<p><a href="http://windowsteamblog.com/windows_live/b/windowslive/archive/2011/12/14/anyone-can-build-a-windows-live-messenger-client-with-open-standards-access-via-xmpp.aspx" target="_blank" rel="external">Anyone can build a Messenger client—with open standards access via XMPP</a> - The official engineering blog for Hotmail, Messenger, SkyDrive, and Windows Live, hosted by The Windows Blog</p>
+
+      
+    </div>
+    
+    
+      <footer class="article-footer">
+        
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Microsoft/">Microsoft</a></li></ul>
+
+      </footer>
+    
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/on-android-updates/" id="article-nav-newer" class="article-nav-link-wrap">
+      <div class="article-nav-title"><span>&lt;</span>&nbsp;
+        
+          On Android Updates
+        
+      </div>
+    </a>
+  
+  
+    <a href="/what-i-want-from-my-next-mobile-os/" id="article-nav-older" class="article-nav-link-wrap">
+      <div class="article-nav-title">What I Want From My Next Mobile OS&nbsp;<span>&gt;</span></div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+    <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2016 Daniel Brierton&nbsp;
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>, theme by <a href="http://github.com/ppoffice">PPOffice</a>
+    </div>
+  </div>
+</footer>
+    
+
+<script src="/js/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+<script src="/js/script.js"></script>
+  </div>
+</body>
+</html>
