@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daniel.brierton.me/"/>
-  <updated>2016-07-24T22:15:47.000Z</updated>
+  <updated>2016-07-24T22:55:14.000Z</updated>
   <id>https://daniel.brierton.me/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://daniel.brierton.me/streamlining-ui-integration-tests-with-promises/"/>
     <id>https://daniel.brierton.me/streamlining-ui-integration-tests-with-promises/</id>
     <published>2015-10-28T00:00:00.000Z</published>
-    <updated>2016-07-24T22:15:47.000Z</updated>
+    <updated>2016-07-24T22:55:14.000Z</updated>
     
     <content type="html"><![CDATA[<p>Writing integration tests for your UIs in JavaScript can get messy fast. You start off with some nice simple tests, and before you know it you’re in callback hell. By taking a step back and better structuring your tests and utilising the power of Promises though, you can avoid this. This post outlines how we tackled this problem and have made it quicker, easier, and cleaner to write integration tests in JavaScript.</p>
 <a id="more"></a>
@@ -51,7 +51,11 @@
     </summary>
     
     
-      <category term="JavaScript, Testing, Promises" scheme="https://daniel.brierton.me/tags/JavaScript-Testing-Promises/"/>
+      <category term="JavaScript" scheme="https://daniel.brierton.me/tags/JavaScript/"/>
+    
+      <category term="Testing" scheme="https://daniel.brierton.me/tags/Testing/"/>
+    
+      <category term="Promises" scheme="https://daniel.brierton.me/tags/Promises/"/>
     
   </entry>
   
@@ -60,7 +64,7 @@
     <link href="https://daniel.brierton.me/my-google-io-2014-hopes-and-predictions/"/>
     <id>https://daniel.brierton.me/my-google-io-2014-hopes-and-predictions/</id>
     <published>2014-06-16T23:00:00.000Z</published>
-    <updated>2016-07-24T22:18:41.000Z</updated>
+    <updated>2016-07-24T22:55:41.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/my-google-io-2014-hopes-and-predictions/googleio2014.png" alt="Google I/O 2014"></p>
 <p><a href="https://www.google.com/events/io" target="_blank" rel="external">Google I/O</a> is just around the corner, so it’s time for my one post of the year (who knows, maybe I’ll buck the trend and become a bit more active). Last years predictions were pretty inaccurate, and these may be just as bad, but hey, speculation is fun, and it like I said last year, it’s more of a wishlist than anything else. So, let’s dive right in.</p>
@@ -102,7 +106,9 @@
     </summary>
     
     
-      <category term="Android, Google" scheme="https://daniel.brierton.me/tags/Android-Google/"/>
+      <category term="Android" scheme="https://daniel.brierton.me/tags/Android/"/>
+    
+      <category term="Google" scheme="https://daniel.brierton.me/tags/Google/"/>
     
   </entry>
   
@@ -111,7 +117,7 @@
     <link href="https://daniel.brierton.me/my-google-io-hopes-and-predictions/"/>
     <id>https://daniel.brierton.me/my-google-io-hopes-and-predictions/</id>
     <published>2013-03-19T00:00:00.000Z</published>
-    <updated>2016-07-24T22:48:38.000Z</updated>
+    <updated>2016-07-24T22:56:00.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/my-google-io-hopes-and-predictions/google_io1.png" alt="Google I/O"></p>
 <p>With Google I/O less than two months away, speculation is rife on what Google will announce. This list is more of a wish list than statements of what I believe will happen. I believe most of what I’ve laid out below is possible, however as with any speculation it’s exactly that — speculation. I don’t have any insider information, just my own thoughts.</p>
@@ -152,7 +158,11 @@
     </summary>
     
     
-      <category term="Android, Google, Chrome" scheme="https://daniel.brierton.me/tags/Android-Google-Chrome/"/>
+      <category term="Android" scheme="https://daniel.brierton.me/tags/Android/"/>
+    
+      <category term="Google" scheme="https://daniel.brierton.me/tags/Google/"/>
+    
+      <category term="Chrome" scheme="https://daniel.brierton.me/tags/Chrome/"/>
     
   </entry>
   
@@ -161,7 +171,7 @@
     <link href="https://daniel.brierton.me/microsoft-windows-windows-phone-xbox-and-skydrive/"/>
     <id>https://daniel.brierton.me/microsoft-windows-windows-phone-xbox-and-skydrive/</id>
     <published>2012-02-19T00:00:00.000Z</published>
-    <updated>2016-07-24T22:18:33.000Z</updated>
+    <updated>2016-07-24T22:55:33.000Z</updated>
     
     <content type="html"><![CDATA[<p>A bit of a long in the tooth title there, but since the rumours of SkyDrive getting a <a href="http://www.theverge.com/2012/2/18/2808445/skydrive-paid-storage-options-pc-mac-os-x-app" target="_blank" rel="external">Windows and Mac app and increased storage options</a>, I’ve been thinking about it’s role in Microsoft’s ecosystem.</p>
 <a id="more"></a>
@@ -179,7 +189,13 @@
     </summary>
     
     
-      <category term="Microsoft, Windows, Xbox, Windows Phone" scheme="https://daniel.brierton.me/tags/Microsoft-Windows-Xbox-Windows-Phone/"/>
+      <category term="Microsoft" scheme="https://daniel.brierton.me/tags/Microsoft/"/>
+    
+      <category term="Windows" scheme="https://daniel.brierton.me/tags/Windows/"/>
+    
+      <category term="Xbox" scheme="https://daniel.brierton.me/tags/Xbox/"/>
+    
+      <category term="Windows Phone" scheme="https://daniel.brierton.me/tags/Windows-Phone/"/>
     
   </entry>
   
@@ -239,7 +255,7 @@
     <link href="https://daniel.brierton.me/what-i-want-from-my-next-mobile-os/"/>
     <id>https://daniel.brierton.me/what-i-want-from-my-next-mobile-os/</id>
     <published>2011-02-16T00:00:00.000Z</published>
-    <updated>2016-07-24T22:49:01.000Z</updated>
+    <updated>2016-07-24T22:56:26.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/what-i-want-from-my-next-mobile-os/xoom-pre-macbook.png" alt=""></p>
 <p>With the recent big announcements from Google, HP and Nokia, I’ve been left wondering what my next phone will be. In the end, I believe people will be buying into an ecosystem of devices. With HP’s tight integration between phone and tablet, and plans to bring it’s webOS to PCs and laptops in the near future, it’s clear that they want you to own HP throughout your gadgety collection. I love the look of the integration they’ve got going in webOS, but I’m not loving the idea of sticking with one manufacturer.</p>
@@ -258,7 +274,11 @@
     </summary>
     
     
-      <category term="Android, iOS, webOS" scheme="https://daniel.brierton.me/tags/Android-iOS-webOS/"/>
+      <category term="Android" scheme="https://daniel.brierton.me/tags/Android/"/>
+    
+      <category term="iOS" scheme="https://daniel.brierton.me/tags/iOS/"/>
+    
+      <category term="webOS" scheme="https://daniel.brierton.me/tags/webOS/"/>
     
   </entry>
   
@@ -295,7 +315,7 @@
     <link href="https://daniel.brierton.me/os-x-lion-yay-or-nay/"/>
     <id>https://daniel.brierton.me/os-x-lion-yay-or-nay/</id>
     <published>2010-10-22T23:00:00.000Z</published>
-    <updated>2016-07-24T22:48:44.000Z</updated>
+    <updated>2016-07-24T22:56:14.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/os-x-lion-yay-or-nay/osx-ipad-gt-osx.jpg" alt=""></p>
 <p>With the recent Mac event from Apple, I’ve been asking myself, do I like where OS X is going? I’ve only recently enough become a Mac user, picking up a Macbook about a year and a half ago now, so I’ve only ever used Leopard and Snow Leopard. I guess that’s enough time to get over comfortable in an OS. Using Windows or Linux now feels a little alien to me, despite being a Windows user all my life, and using Ubuntu for a significant amount of time.</p>
@@ -316,6 +336,10 @@
     
     </summary>
     
+    
+      <category term="Apple" scheme="https://daniel.brierton.me/tags/Apple/"/>
+    
+      <category term="Mac" scheme="https://daniel.brierton.me/tags/Mac/"/>
     
   </entry>
   
